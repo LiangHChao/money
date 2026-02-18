@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "id": "inc1",
+      "type": "work",
+      "amount": 50,
+      "date": "2024-01-15",
+      "note": "全天上班"
+    },
+    {
+      "id": "inc2",
+      "type": "task",
+      "amount": 10,
+      "date": "2024-01-14",
+      "note": "洗碗"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "id": "att1",
+      "date": "2024-01-15",
+      "checkIn": "08:00",
+      "checkOut": "23:00",
+      "status": "normal"
+    },
+    {
+      "id": "att2",
+      "date": "2024-01-14",
+      "checkIn": "08:05",
+      "checkOut": "23:00",
+      "status": "late",
+      "lateMinutes": 5,
+      "penalty": 5
+    }
+  ]
+}

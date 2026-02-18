@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "id": "task1",
+      "title": "洗碗",
+      "price": 10,
+      "status": "pending",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "task2",
+      "title": "扫地",
+      "price": 15,
+      "status": "completed",
+      "completedAt": "2024-01-14",
+      "kidId": "kid1"
+    }
+  ]
+}

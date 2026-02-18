@@ -1,0 +1,15 @@
+{
+  "kids": [
+    {
+      "id": "kid1",
+      "name": "小明",
+      "password": "123456",
+      "dailyWage": 50,
+      "latePenalty": 5,
+      "lateMinutes": 5
+    }
+  ],
+  "admin": {
+    "password": "admin123"
+  }
+}
