@@ -16,5 +16,5 @@ export const FILE_PATHS = {
 
 // GitHub 编辑链接
 export const getGitHubEditUrl = (filePath: string) => {
-  return `https://github.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/edit/main/${filePath}`
+  return `https://github.com/${GITHUB_CONFIG.owner}/${GITHUB_CONFIG.repo}/edit/master/${filePath}`
 }

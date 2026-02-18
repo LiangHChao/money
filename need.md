@@ -9,6 +9,7 @@
 - **目标用户**: 多个小孩家庭，家长管理数据
 
 ## 2. 功能需求
+项目路径 https://github.com/LiangHChao/money.git
 
 ### 2.1 数据展示模块
 
